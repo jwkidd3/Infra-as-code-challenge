@@ -9,7 +9,7 @@ DocNetwork's DevOps Challenge
 3. ELB to manage traffic
 4. A running copy of the world's finest [Inspirational Quote Generator](https://github.com/docnetwork/InspirationalQuoteGenerator)
 
-Also we understand this is an *infrastructure* challenge, and we've tried to make the application easy to manage. It's containerized, so starting the app should be as simple as running the container. We're more than happy to help with roadblocks here. Additionally, if you need to modify the application itself in any way, feel free to fork it and do so!
+This is an *infrastructure* challenge, and we've tried to make the application easy to manage. It's containerized, so starting the app should be as simple as running the container. We're more than happy to help with roadblocks here. Additionally, if you need to modify the application itself in any way, feel free to fork it and do so!
 
 ## Requirements
 1. Runs on AWS Infrastructure.
